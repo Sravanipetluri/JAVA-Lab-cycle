@@ -34,6 +34,17 @@ class QuadraticEquation
   }
  }
 }
+
+output:
+enter a value
+5
+enter b value
+8
+enter c value
+4
+given quadratic eq is:5x^2+8x+4
+roots are imaginary
+
     
  
   
